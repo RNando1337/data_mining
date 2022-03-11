@@ -1,2 +1,2 @@
-# data_mining
+# Data Mining
 Tugas Data Mining
